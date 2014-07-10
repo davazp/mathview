@@ -1,0 +1,28 @@
+{
+  "name": "mathview",
+  "version": "0.0.0",
+  "description": "WebGL Mathematical Visualization",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davazp/mathview.git"
+  },
+  "keywords": [
+    "math",
+    "webgl",
+    "visualization"
+  ],
+  "author": "David Vázquez <davazp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davazp/mathview/issues"
+  },
+  "homepage": "https://github.com/davazp/mathview",
+  "devDependencies": {
+    "express": "^4.5.1"
+  }
+}
